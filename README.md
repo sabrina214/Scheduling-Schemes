@@ -1,1 +1,1 @@
-# Implementaion of several OS Scheduling-Schemes
+# Implementation of several OS Scheduling-Schemes
